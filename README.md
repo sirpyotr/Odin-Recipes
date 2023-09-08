@@ -13,4 +13,4 @@ The Odin-Recipes project will showcase my knowledge on:
         -Paragraphs
         -Headings
 
-The main goal of the project is to create a Recipe-themed website using html pages
+The main goal of the project is to create a Recipe-themed website using html pages.
