@@ -4,6 +4,17 @@ body {
 
 }
 
+main {
+    border: solid;
+    background-color: honeydew;
+    border-radius: 25px;
+    padding: 10px;
+    width: 725px;
+    margin: 0 auto;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
 h1 {
     text-align: center;
     /* border: solid; */
@@ -13,11 +24,12 @@ h1 {
 
 img {
     width: 600px;
-    height: auto;
+    height: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: solid;
+    border-radius: 10px;
 }
 
 li {
